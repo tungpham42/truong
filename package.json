@@ -49,5 +49,8 @@
         "redux-thunk": "^2.3.0",
         "styled-components": "^5.2.1",
         "typed.js": "^2.0.12"
+    },
+    "engines": {
+        "node": "12.x"
     }
 }
